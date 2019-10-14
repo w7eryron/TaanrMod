@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"DII",
+		" R ",
+		" S "
+	],
+	
+	"key":
+	{
+		"I": { "item": "taanr:taanressense_block" },
+		"D": { "item": "minecraft:diamond_block" },		
+		"S": { "item": "minecraft:stick" },
+		"R": { "item": "minecraft:redstone_block"} 	
+	},
+	
+	"result": { "item": "taanr:taanr_hammernine",
+		"nbt": "{Enchantments:[{id:unbreaking, lvl:4}, {id:mending, lvl:1}, {id:efficiency, lvl:5}, {id:fortune, lvl:3} ]}"
+		
+	 }
+}

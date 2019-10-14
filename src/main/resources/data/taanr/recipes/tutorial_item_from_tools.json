@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "taanr:tutorial_sword" },
+		{ "item": "taanr:tutorial_axe" },
+		{ "item": "taanr:tutorial_shovel" }
+	],
+	
+	"result": { "item": "taanr:tutorial_block" }
+}

@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"   ",
+		"R T",
+		"L D"
+	],
+	
+	"key":
+	{
+		"D": { "item": "minecraft:diamond_block" },
+		"L": { "item": "minecraft:lapis_block" },	
+		"T": { "item": "taanr:taanr_block" },
+		"R": { "item": "minecraft:redstone_block" }	
+		
+	},
+	
+	"result": { "item": "minecraft:diamond_boots",
+	"nbt": "{Enchantments:[{id:unbreaking, lvl:4}, {id:protection, lvl:5}, {id:feather_falling, lvl:4}, {id:depth_strider, lvl:3}, {id:mending, lvl:1} ]}"
+						
+	}
+	
+
+	
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "taanr:tutorial_item"
+    }
+  },
+  "result": {
+    "item": "taanr:tutorial_block",
+    "count": 4
+  }
+}

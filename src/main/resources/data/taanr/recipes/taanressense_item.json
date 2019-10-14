@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		"III",
+		"III"
+	],
+	
+	"key":
+	{
+		"I": { "item": "taanr:taanrblock_item" }
+		
+	},
+	
+	"result": 
+	{ 
+	"item": "taanr:taanressense_item",
+	"count": 9 
+	}
+}

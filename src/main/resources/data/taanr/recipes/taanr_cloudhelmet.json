@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"TTT",
+		"R R",
+		"   "
+	],
+	
+	"key":
+	{
+			
+		"T": { "item": "taanr:taanressense_block" },
+		"R": { "item": "minecraft:redstone_block" }	
+		
+	},
+	
+	"result": { "item": "taanr:taanr_cloudhelmet",
+	"nbt": "{Enchantments:[{id:unbreaking, lvl:4}, {id:protection, lvl:5}, {id:respiration, lvl:3}, {id:aqua_affinity, lvl:1}, {id:mending, lvl:1} ]}"
+						
+	}
+	
+
+	
+}

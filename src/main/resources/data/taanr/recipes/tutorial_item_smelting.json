@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "tag": "taanr:tutorial_ore" },
+	"result": "taanr:tutorial_item",
+	"experience": 2.3,
+	"cookingtime": 200
+}

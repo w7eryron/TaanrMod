@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"   ",
+		"T T",
+		"R R"
+	],
+	
+	"key":
+	{
+			
+		"T": { "item": "taanr:taanressense_block" },
+		"R": { "item": "minecraft:redstone_block" }	
+		
+	},
+	
+	"result": { "item": "taanr:taanr_cloudboots",
+	"nbt": "{Enchantments:[{id:unbreaking, lvl:4}, {id:protection, lvl:5}, {id:feather_falling, lvl:4}, {id:depth_strider, lvl:3}, {id:mending, lvl:1} ]}"
+						
+	}
+	
+
+	
+}

@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values":
+	[
+		"taanr:tutorial_ore",
+		"taanr:tutorial_ore_nether",
+		"taanr:tutorial_ore_end"
+	]	
+}

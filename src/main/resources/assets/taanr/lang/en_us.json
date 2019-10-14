@@ -1,0 +1,35 @@
+{
+	"item.taanr.tutorial_item": "Tutorial Item",
+	"item.taanr.taanrblock_item": "Toasted Taanr",
+	"item.taanr.taanressense_item": "Taanr Essense",
+	"item.taanr.taanrpod_item": "Taanr Pod",
+	"item.taanr.taanrenchanted_sword": "Taanr Enchanted Sword",
+	"item.taanr.taanr_hammernine": "Taanr HamerNine",
+	"item.taanr.taanr_cloudboots": "Cloud Boots of Taanr",
+	"item.taanr.taanr_cloudhelmet": "Taanr Cloud Helmet",
+	
+	"item.taanr.tutorial_axe": "Tutorial Axe",
+	"item.taanr.tutorial_hoe": "Tutorial Hoe",
+	"item.taanr.tutorial_pickaxe": "Tutorial Pickaxe",
+	"item.taanr.tutorial_shovel": "Tutorial Shovel",
+	"item.taanr.tutorial_sword": "Tutorial Sword",
+	
+	"item.taanr.tutorial_helmet": "Home Helmet",
+	"item.taanr.tutorial_chestplate": "Tutorial Chestplate",
+	"item.taanr.tutorial_leggings": "Tutorial Leggings",
+	"item.taanr.tutorial_boots": "Boots teleport back",
+	
+	"item.taanr.tutorial_entity_egg": "Tutorial Cow Egg",
+	
+	"block.taanr.tutorial_block": "Tutorial Block",
+	"block.taanr.taanr_block": "Taanr Block",
+	"block.taanr.taanressense_block": "Taanr Essense Block",
+	
+	"block.taanr.tutorial_ore": "Tutorial Ore",
+	"block.taanr.tutorial_ore_nether": "Tutorial Nether Ore",
+	"block.taanr.tutorial_ore_end": "Tutorial End Ore",
+	
+	"entity.taanr.tutorial_entity": "Tutorial Cow",
+	
+	"itemGroup.tutorial": "Taanr Stuff"
+}

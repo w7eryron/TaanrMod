@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		
+		{ "item": "taanr:taanressense_block" }
+	],
+	
+	"result": 
+	{ 
+	"item": "taanr:taanressense_item",
+	"count": 9
+	 }
+}

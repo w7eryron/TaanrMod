@@ -1,0 +1,40 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory
+credits="Thanks to Harry Talks for his amazing tutorials." #optional
+authors="Harry and Ron" #optional
+
+[[mods]] #mandatory
+modId="taanr" #mandatory
+version="0.9.0" #mandatory
+displayName="Ron's TaanrMod " #mandatory
+description='''
+Thanks again to Harry, to LexManos, to KiritoGames20, and to Mr. Crayfish.
+
+this is still in development, but very close to what I want.
+
+currently in the mod:
+tutorial stuff from Harry
+Taanr block and associated items
+Taanr sword with one-hit on Creepers
+a simple way to teleport home and back to your teleport spot
+a simple cloud boots jumping class
+the 3x3 mining hammer from SuperTools - I could never had done anything so complete. 
+
+With all of the above then I will be happy. 
+Taanr = Tristan, AnneAlisse, Nette, and Ron
+
+'''
+
+[[dependencies.tutorialmod]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[28,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+# Here's another dependency
+[[dependencies.tutorialmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"
